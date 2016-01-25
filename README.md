@@ -64,8 +64,14 @@ Known bugs:
 
 Sometimes a turret will switch targets before the enemy is destroyed, even if the new target is further away.  Unsure why this happens.
 
-Extra features:
+###Screenshots
 
-Impressions/Suggestions:
+![splash](https://github.com/EmperorLeo/javafxgame/blob/master/screenshots/splash.png)
 
+![gameplay1](https://github.com/EmperorLeo/javafxgame/blob/master/screenshots/gameplay1.png)
 
+![gameplay2](https://github.com/EmperorLeo/javafxgame/blob/master/screenshots/gameplay2.png)
+
+![gameplay3](https://github.com/EmperorLeo/javafxgame/blob/master/screenshots/gameplay3.png)
+
+![gameplay4](https://github.com/EmperorLeo/javafxgame/blob/master/screenshots/gameplay4.png)
