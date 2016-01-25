@@ -1,0 +1,41 @@
+Leo Feldman
+laf22
+
+Escape from New Pangea
+(Real Time Strategy)
+
+Backstory - 
+In the year 1,086,025 ACE, a new supercontinent had slowly been formed, *cue epic music*.  
+You are one of the last of the homo sapiens sapiens species, and ever since the new continent
+slowly drifted together, the homo transcendere have overtaken every political body.
+Your objective is to rally the last of humankind, and escape from planet Earth from your
+secret base in what used to be called the Gobi desert.  Little did you know, a 
+numan (homo transcendere) task force has been dispatched to eradicate what is left of the humans.
+It is up to you, commander, to orchestrate an epic departure from Earth.
+
+Level 1 - 
+The goal here is to gather 2000 iron ore in order to have the resources to construct the spaceship
+and leave Earth.  However, there are numan attack waves incoming, so you must spend some of those
+resources just to defend the base.  If you lose your Central Building, you lose the game.  If you get
+2000 iron ore, you advance to the next level.
+
+Level 2 - 
+Once you and your human crew has launched, the numan supergovernment has been alerted of a human
+technological presence.  They now send fighter waves after your spaceship to bring it down.  Use your
+cloaking technology and crude weapons wisely in order to escape in 2 minutes.  Once two minutes has
+passed, the numans will leave you alone.  If you die before then, you lose.
+
+Basic Mechanics - 
+Workers:  In level 1, you need to use worker units to gather the resources.  Those workers can also
+build defensive structures, which cost iron ore, albeit less than 2000.
+
+Defensive structures:  Stationary units that can either fire missiles on enemy units, or detect cloaked
+enemy units.  Each structure has a range, so you may need to build multiple of these structures to
+defend the entire base, or just to fend off greater amounts of enemies.
+
+Enemy Units: Basic guys with laser guns who want to kill you.  They might attack once every second or
+so, and they are mobile, attracted to your defensive structures first, then your Central Building.
+
+Project After Earth Spaceship:  Press C to cloak, avoiding all enemy units, but expending spaceship
+energy.  Press F to fire a missile, destroying the closest enemy spaceship, however, you only have as
+many missiles as defensive structures you build (since you packed those up.)  Survive for 2 minutes.
